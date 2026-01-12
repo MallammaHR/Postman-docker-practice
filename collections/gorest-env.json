@@ -1,0 +1,10 @@
+{
+  "name": "GoRest Env",
+  "values": [
+    {
+      "key": "token",
+      "value": "86feba5fd5aa6ae0f76ef03fa0e25407a6d5c1ea84333f77648dc168a2ec7497",
+      "enabled": true
+    }
+  ]
+}
